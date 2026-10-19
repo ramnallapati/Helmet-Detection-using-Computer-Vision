@@ -19,7 +19,7 @@
 
 <br>
 
-**[🚀 Live Demo](https://huggingface.co/spaces/vicky00777/helmet-detection-yolo)** · **[Report Bug](https://github.com/iiiii0vicky0-0singh0iiiii/Helmet_detection/issues)** · **[Request Feature](https://github.com/iiiii0vicky0-0singh0iiiii/Helmet_detection/issues)**
+**[🚀 Live Demo](https://huggingface.co/spaces/vicky00777/helmet-detection-yolo)**
 
 <br>
 
@@ -141,8 +141,8 @@ helmet-detection-system/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/helmet-detection-system.git
-cd helmet-detection-system
+git clone https://github.com/ramnallapati/Helmet-Detection-using-Computer-Vision.git
+cd Helmet-Detection-using-Computer-Vision
 ```
 
 **2. Create a virtual environment**
@@ -213,12 +213,6 @@ Contributions are welcome! Here's how to get started:
 3. **Commit** your changes → `git commit -m 'Add AmazingFeature'`
 4. **Push** to the branch → `git push origin feature/AmazingFeature`
 5. **Open** a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
